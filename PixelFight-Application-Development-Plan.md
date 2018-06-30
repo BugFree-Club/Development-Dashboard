@@ -47,9 +47,10 @@
 - C#
   - [C#菜鸟教程](http://www.runoob.com/csharp/csharp-tutorial.html)
     - 基础部分即可,高级特性根据需求了解
-  - [微软信仰中心-哔哩哔哩](http://space.bilibili.com/18340402/#/channel/detail?cid=1436)
+  - [微软信仰中心-哔哩哔哩](http://space.bilibili.com/18340402/#/channel/detail?cid=1436) : 官方入门教学,简单易懂
     - 通过视频熟悉UWP开发,并跟着视频练习,必须手写代码
     - 看完前面大部分视频即可,后面的一些根据个人需求
+  - [微软官方UWP开发文档](https://docs.microsoft.com/zh-cn/windows/uwp/) : 官方文档,非常全面
 
 ## Practice
 
