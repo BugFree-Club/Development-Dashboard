@@ -19,11 +19,11 @@
 
     - 基础部分即可,高级特性根据需求了解
 
-  - ## 应用开发类
+## 应用开发类
 
-    - UWP : win10通用应用,windows平台应用开发首选,C#开发
-      - [微软信仰中心-哔哩哔哩](http://space.bilibili.com/18340402/#/channel/detail?cid=1436) : 官方入门教学,简单易懂
-      - [微软官方UWP开发文档](https://docs.microsoft.com/zh-cn/windows/uwp/) : 官方文档,非常全面
+ - UWP : win10通用应用,windows平台应用开发首选,C#开发
+   - [微软信仰中心-哔哩哔哩](http://space.bilibili.com/18340402/#/channel/detail?cid=1436) : 官方入门教学,简单易懂
+   - [微软官方UWP开发文档](https://docs.microsoft.com/zh-cn/windows/uwp/) : 官方文档,非常全面
 
 ## 代码练习网站
 
